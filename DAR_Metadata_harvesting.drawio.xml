@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-07-12T09:57:23.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="53ZXgFg2507ILvDjlELj" version="21.6.2" type="google">
+  <diagram name="Seite-1" id="S_TZVSUQbfnWabn9eLfu">
+    <mxGraphModel dx="1434" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="mr0UuOtnfTYT5YvsyqGx-2" target="mr0UuOtnfTYT5YvsyqGx-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="mr0UuOtnfTYT5YvsyqGx-2" target="mr0UuOtnfTYT5YvsyqGx-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-2" value="Register local eLTER DataNode for harvesting" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-90" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="mr0UuOtnfTYT5YvsyqGx-7" target="DZGx58QAEFHRTukDiDFj-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-7" value="mapping of MD elements to the DAR MD schema" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-10" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="mr0UuOtnfTYT5YvsyqGx-8" target="Qf063jXrXLKwVqvQBwEC-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-18" value="[NO]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qf063jXrXLKwVqvQBwEC-9" connectable="0" vertex="1">
+          <mxGeometry x="-0.3101" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-8" value="" style="shape=rhombus;html=1;verticalLabelPosition=bottom;verticalAlignment=top;" parent="1" vertex="1">
+          <mxGeometry x="500" y="351" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-10" value="[YES]" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;" parent="1" source="mr0UuOtnfTYT5YvsyqGx-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="621" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-12" value="check MD record if already harvested or modified" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="261" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-22" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mr0UuOtnfTYT5YvsyqGx-12" target="mr0UuOtnfTYT5YvsyqGx-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="621" y="251" as="targetPoint" />
+            <mxPoint x="521" y="224" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-33" value="component&lt;br&gt;Digital Asset Register [DAR]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffae00;" parent="1" vertex="1">
+          <mxGeometry x="681" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-37" value="component&lt;br&gt;Local Catalogue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffae00;" parent="1" vertex="1">
+          <mxGeometry x="681" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mr0UuOtnfTYT5YvsyqGx-41" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;eLTER Workflow: Harvesting metadata on eLTER datasets from national eLTER Data Node (DN)&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-c258c2dd-7fff-9a29-0822-7d70513678c7&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-148.66" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DZGx58QAEFHRTukDiDFj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="DZGx58QAEFHRTukDiDFj-28" target="mr0UuOtnfTYT5YvsyqGx-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZGx58QAEFHRTukDiDFj-28" value="" style="shape=ellipse;html=1;fillColor=strokeColor;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="500" y="-160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DZGx58QAEFHRTukDiDFj-30" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" parent="1" vertex="1">
+          <mxGeometry x="500" y="535" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="DZGx58QAEFHRTukDiDFj-40" target="mr0UuOtnfTYT5YvsyqGx-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="DZGx58QAEFHRTukDiDFj-40" target="Qf063jXrXLKwVqvQBwEC-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZGx58QAEFHRTukDiDFj-40" value="retrieve file list &lt;br&gt;type &#39;DataSet&#39;&lt;br&gt;(e.g. json-LD)" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-3" value="MD source identification" style="html=1;shape=mxgraph.sysml.actPart;strokeWidth=3;verticalAlign=top;rotation=-90;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="435.18" y="-148.66" width="158.75" height="251.08" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-4" value="MD harvesting to DAR" style="html=1;shape=mxgraph.sysml.actPart;strokeWidth=3;verticalAlign=top;rotation=-90;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="299.07" y="172.82" width="431.87" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" parent="1" source="Qf063jXrXLKwVqvQBwEC-6" target="mr0UuOtnfTYT5YvsyqGx-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-6" value="harvest metadata based on DataCite [DOI]" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Qf063jXrXLKwVqvQBwEC-7" target="DZGx58QAEFHRTukDiDFj-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qf063jXrXLKwVqvQBwEC-7" target="mr0UuOtnfTYT5YvsyqGx-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qf063jXrXLKwVqvQBwEC-7" target="DZGx58QAEFHRTukDiDFj-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="456" as="sourcePoint" />
+            <mxPoint x="330" y="126" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="460" />
+              <mxPoint x="330" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-17" value="cron job&lt;br&gt;weekly" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qf063jXrXLKwVqvQBwEC-16" connectable="0" vertex="1">
+          <mxGeometry x="0.0526" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-7" value="import metadata&lt;br&gt;[handle.net ID and modification time]" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" parent="1" vertex="1">
+          <mxGeometry x="440" y="420" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf063jXrXLKwVqvQBwEC-8" value="" style="html=1;shape=mxgraph.sysml.flowFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" parent="1" vertex="1">
+          <mxGeometry x="620" y="351" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
