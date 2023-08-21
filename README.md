@@ -11,7 +11,21 @@ To upload new diagram:
 To edit diagram store in this repo:
 1. Use [draw.io](http://draw.io/) desktop app or web app (https://app.diagrams.net/?src=github).
 2. Select "Open Existing Diagram".
+
+<img width="384" alt="Untitled" src="https://github.com/eLTER-RI/eLTER-workflow-diagrams/assets/1393893/4b654409-ee60-4307-8ebc-fa830c61d586">
+
 3. Select repo GitHub where diagram XML file is stored.
+
+<img width="267" alt="Untitled 2" src="https://github.com/eLTER-RI/eLTER-workflow-diagrams/assets/1393893/c33acfe0-d140-4e48-a813-6ec393f2b6ab">
+
 4. Select an diagram XML file.
+
+<img width="510" alt="Untitled 3" src="https://github.com/eLTER-RI/eLTER-workflow-diagrams/assets/1393893/4707c64b-4b10-439d-83bd-513e0fb18ddb">
+
 5. Edit it with draw.io.
+
+<img width="1788" alt="Untitled 4" src="https://github.com/eLTER-RI/eLTER-workflow-diagrams/assets/1393893/ee0ac93f-fa85-4b7c-80cf-57fd31ef11a8">
+
 6. Save and commit the changes.
+
+<img width="497" alt="Untitled 5" src="https://github.com/eLTER-RI/eLTER-workflow-diagrams/assets/1393893/5ad12328-3a1b-4ceb-8a7b-a10bc1a30358">
